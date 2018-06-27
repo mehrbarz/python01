@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 print ("The page is loaded")
 
 from urllib.request import urlopen
